@@ -7,5 +7,8 @@ public class Main {
         double dub = 5.0/2;
         System.out.println(dub);
 
+        double ddd = 10.0/2;
+        System.out.println(dub);
+
     }
 }
